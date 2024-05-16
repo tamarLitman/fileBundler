@@ -1,0 +1,16 @@
+//tamar
+C:\Users\123\Desktop\לימודים!!\פרקטיקוד\fib\publish\Main.java.java
+package Exceptions;
+public class Main {
+	public static void main(String[] args) {
+		try {
+			textConvert.convert("12a456*");
+		}
+		catch(notValidCodeException e) {
+			System.out.println("����");
+		}
+	}
+}
+C:\Users\123\Desktop\לימודים!!\פרקטיקוד\fib\publish\‏‏‫מסמך טקסט ‫חדש.txt
+בהצלחה!
+יום טוב!
